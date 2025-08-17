@@ -1,0 +1,2 @@
+id[] = "admin100";
+key[] = "pass10";
