@@ -1,2 +1,3 @@
-id[] = "admin100";
-key[] = "pass10";
+User id = "admin100";
+
+key = "pass10";
